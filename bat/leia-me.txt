@@ -38,3 +38,25 @@ Fonte:
 https://www.softdownload.com.br/como-limpar-fila-impressao-windows-10-8-7.html
 
 ----------------------------------------------------------------------------------------------------------------
+
+
+Desativar a hibernação do Windows
+=================================
+
+
+Arquivo:   desabilitar-hibernacao-do-Windows.bat
+
+sha256sum: f85724e7a364628406e0d5902f638ca6205db7566ca86aac9f34d1a87448e812
+
+
+
+Fontes:
+
+https://olhardigital.com.br/2019/01/07/dicas-e-tutoriais/como-apagar-o-arquivo-de-hibernacao-do-windows-10/
+https://learn.microsoft.com/pt-br/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+
