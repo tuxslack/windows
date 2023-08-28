@@ -1,0 +1,209 @@
+
+Programas essenciais para instalar após formatar o Windows
+==========================================================
+
+
+
+# ---------------------------------------------------------------------------------------
+
+* Suíte de escritório gratuita
+
+
+LibreOffice é uma suíte de escritório totalmente gratuita e de código aberto que funciona 
+como alternativa ao Pacote Office, que é pago e inclui programas como Microsoft Word, 
+Microsoft Excel e Power Point. 
+
+
+LibreOffice     => https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/
+
+ou
+
+WPS Office Free => https://www.wps.com/pt-BR/office/windows/
+
+# ---------------------------------------------------------------------------------------
+
+* Navegadores web
+
+
+Firefox       => https://www.mozilla.org/pt-BR/firefox/all/#product-desktop-release
+
+ou
+
+Google Chrome => https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform%3DDesktop
+
+# ---------------------------------------------------------------------------------------
+
+* Reprodutor de vídeos
+
+VLC                  => https://www.videolan.org/index.pt-BR.html
+
+ou
+
+Media Player Classic => https://mpc-hc.org/
+
+MPC-HC não está em desenvolvimento desde 2017. Mude para outra coisa.
+
+# ---------------------------------------------------------------------------------------
+
+* Descompactador de arquivos
+ 
+O software mais conhecido para isso é o WinRAR, que apesar de ter uma versão de 
+teste vitalícia apresenta alguns anúncios em sua interface. Como alternativa temos 
+o 7-Zip, que realiza as mesmas funções porém é totalmente gratuito.
+ 
+7-Zip         => https://www.7-zip.org/
+
+
+# ---------------------------------------------------------------------------------------
+
+* Visualização de documentos no formato PDF
+
+Master PDF Editor => https://code-industry.net/get-masterpdfeditor/
+
+# ---------------------------------------------------------------------------------------
+
+* Para fazer backup e sincronizar os seus documentos na nuvem.
+
+Dropbox => https://www.dropbox.com/pt_BR/
+
+
+# ---------------------------------------------------------------------------------------
+
+* Thunderbird (Alternativa ao Microsoft Outlook) => https://www.thunderbird.net/pt-BR/
+
+O Thunderbird é um cliente de e-mail grátis, de código aberto e multiplataforma, que 
+permite que você acompanhe toda a sua correspondência de e-mail.
+
+
+# ---------------------------------------------------------------------------------------
+
+* Java => https://www.java.com/pt-BR/download/manual.jsp
+
+
+# ---------------------------------------------------------------------------------------
+
+* Gravadores de disco
+
+Gratuito, simples e eficaz: a melhor maneira de gravar CDs e DVDs.
+
+CDBurnerXP   => https://cdburnerxp.se/en/download
+
+# ---------------------------------------------------------------------------------------
+
+* Proteção contra vírus
+
+
+Malwarebytes Anti-Malware (O Bope dos antivírus) => https://br.malwarebytes.com/mwb-download/
+
+
+Panda Dome Antivirus        => https://www.pandasecurity.com/pt/homeusers/free-antivirus/
+
+
+Windows Defender
+
+# ---------------------------------------------------------------------------------------
+
+
+* Grava a tela do desktop (criar tutoriais)
+
+oCam     => https://ohsoft.net/eng/ocam/download.php?cate=1002
+
+
+# ---------------------------------------------------------------------------------------
+
+* Para baixar vídeos do YouTube no Windows:
+
+
+No Firefox ou no Chrome (Video DownloadHelper) => https://www.downloadhelper.net/
+
+
+Free YouTube Download => https://www.dvdvideosoft.com/pt/products/dvd/Free-YouTube-Download.htm
+
+
+ClipGrab => https://clipgrab.de/pt
+
+ 
+aTube Catcher (Não funcionou no Windows 10 Pro 64 bit) => https://www.atube.me/
+
+
+
+
+
+
+
+
+===============================================================================
+
+Extras:
+
+# ---------------------------------------------------------------------------------------
+
+Skype => https://www.skype.com/pt-br/get-skype/
+
+# ---------------------------------------------------------------------------------------
+
+VirtualBox => https://www.virtualbox.org/wiki/Downloads
+
+# ---------------------------------------------------------------------------------------
+
+Audacity (Editor de áudios) => https://www.audacityteam.org/download/
+
+# ---------------------------------------------------------------------------------------
+
+DVD Shrink => https://www.dvdshrink.org/
+
+Com esse programa é possível extrair e copiar DVDs completos, além de compactá-los e 
+editá-los, tudo no mesmo software.
+
+ou
+
+CloneBD   => https://www.elby.ch/download.html
+
+# ---------------------------------------------------------------------------------------
+
+GeoGebra => https://www.geogebra.org/download
+
+# ---------------------------------------------------------------------------------------
+
+Daemon Tools Lite => https://www.daemon-tools.cc/por/home
+
+# ---------------------------------------------------------------------------------------
+
+Format Factory => http://www.pcfreetime.com/formatfactory/
+
+ou
+
+HandBrake      => https://handbrake.fr/downloads.php
+
+# ---------------------------------------------------------------------------------------
+
+CPU-Z (para obter informações de hardware) =>  https://www.cpuid.com/softwares/cpu-z.html
+
+# ---------------------------------------------------------------------------------------
+
+HD Tune (teste de saúde do HD ou SSD) => https://www.hdtune.com/download.html
+
+# ---------------------------------------------------------------------------------------
+
+Advanced IP Scanner (procura por dispositivos conectados à mesma rede local) => https://www.advanced-ip-scanner.com/br/
+
+# ---------------------------------------------------------------------------------------
+
+Memtest86+ (para teste de memória RAM) => https://memtest.org/
+
+# ---------------------------------------------------------------------------------------
+
+Acesso remoto:
+
+AnyDesk         => https://anydesk.com/pt/downloads/windows
+
+ou
+
+TeamViewer      => https://www.teamviewer.com/pt-br/
+
+# ---------------------------------------------------------------------------------------
+
+Fontes:
+
+https://fj.com.br/programas-essenciais-para-tecnicos-de-informatica/
+
