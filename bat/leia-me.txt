@@ -1,0 +1,18 @@
+
+Script que substitui o CCleaner
+===============================
+
+
+Arquivo:   script-baboo-2023-12c.bat
+
+sha256sum: 9e660e0771648cd31a20d7d9f55c14869b3f526dcb27960625d69962fe5e6884
+
+
+
+https://youtu.be/ybh0sXgzmXQ
+
+
+
+Fonte:
+
+https://www.baboo.com.br/windows-10/conteudo-essencial-windows/script-que-substitui-o-ccleaner/
