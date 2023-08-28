@@ -1,4 +1,6 @@
 
+----------------------------------------------------------------------------------------------------------------
+
 Script que substitui o CCleaner
 ===============================
 
@@ -16,3 +18,23 @@ https://youtu.be/ybh0sXgzmXQ
 Fonte:
 
 https://www.baboo.com.br/windows-10/conteudo-essencial-windows/script-que-substitui-o-ccleaner/
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+Limpar a fila de impressão no Windows 10, 8 e 7 (Spooler de impressão)
+======================================================================
+
+
+Arquivo:   limpar-fila-de-impressao.bat
+
+sha256sum: 769b5c8f22709ed942f0fa8e2bff434e95813a32203ca9dbe4d4722afe939420
+
+
+
+Fonte:
+
+https://www.softdownload.com.br/como-limpar-fila-impressao-windows-10-8-7.html
+
+----------------------------------------------------------------------------------------------------------------
