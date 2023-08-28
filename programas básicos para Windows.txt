@@ -3,6 +3,30 @@ Programas essenciais para instalar após formatar o Windows
 ==========================================================
 
 
+ATENÇÃO: 
+
+O site baixaki.com.br não é um site confiável e seguro para baixar e instalar programas no Windows.
+
+O site resolveu colocar um gerenciador que se não prestar atenção instala programas indesejados. É 
+tratado como site de vírus.
+
+Não use o baixaki de jeito nenhum, pois não há respeito com os usuários, além da instalação de coisas 
+indesejadas, são executados scripts maliciosos, por isso muitos antivírus bloqueiam.
+
+Induz a clicar em links de propagandas, que muitas vezes instalam coisas (malware, adware, virus...)
+sem seu consentimento.
+
+Baixaki, Superdownloads e afins viraram lixão de software (cheio de Pup's embutido no instalador.).
+
+
+Busquem sempre o site oficial do programa que você deseja baixar (direto da fonte) não usa 
+site de terceiros.
+
+
+O ideal é usar programas opensource.
+
+
+Use o site "VirusTotal" https://www.virustotal.com/gui/ para verificar o programa.
 
 # ---------------------------------------------------------------------------------------
 
@@ -96,7 +120,7 @@ CDBurnerXP   => https://cdburnerxp.se/en/download
 Malwarebytes Anti-Malware (O Bope dos antivírus) => https://br.malwarebytes.com/mwb-download/
 
 
-Panda Dome Antivirus        => https://www.pandasecurity.com/pt/homeusers/free-antivirus/
+Panda Dome Antivírus        => https://www.pandasecurity.com/pt/homeusers/free-antivirus/
 
 
 Windows Defender
@@ -125,14 +149,13 @@ ClipGrab => https://clipgrab.de/pt
  
 aTube Catcher (Não funcionou no Windows 10 Pro 64 bit) => https://www.atube.me/
 
-
-
-
-
-
-
-
 ===============================================================================
+
+
+
+O ideal é utilizar a versão Portable (portátil) para alguns programas de manutenção de sistema ou de programas básicos.
+
+
 
 Extras:
 
@@ -195,6 +218,7 @@ Memtest86+ (para teste de memória RAM) => https://memtest.org/
 
 Acesso remoto:
 
+
 AnyDesk         => https://anydesk.com/pt/downloads/windows
 
 ou
@@ -202,6 +226,8 @@ ou
 TeamViewer      => https://www.teamviewer.com/pt-br/
 
 # ---------------------------------------------------------------------------------------
+
+
 
 Fontes:
 
