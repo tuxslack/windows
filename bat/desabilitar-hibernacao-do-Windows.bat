@@ -26,5 +26,7 @@ echo powercfg.exe /hibernate on
 echo 
 
 
-Pause
+rem Pause
+
+exit
 

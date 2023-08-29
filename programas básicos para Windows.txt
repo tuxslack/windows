@@ -23,6 +23,13 @@ Busquem sempre o site oficial do programa que você deseja baixar (direto da fon
 site de terceiros.
 
 
+
+
+
+
+
+
+
 O ideal é usar programas opensource.
 
 
@@ -77,7 +84,6 @@ o 7-Zip, que realiza as mesmas funções porém é totalmente gratuito.
  
 7-Zip         => https://www.7-zip.org/
 
-
 # ---------------------------------------------------------------------------------------
 
 * Visualização de documentos no formato PDF
@@ -90,14 +96,12 @@ Master PDF Editor => https://code-industry.net/get-masterpdfeditor/
 
 Dropbox => https://www.dropbox.com/pt_BR/
 
-
 # ---------------------------------------------------------------------------------------
 
 * Thunderbird (Alternativa ao Microsoft Outlook) => https://www.thunderbird.net/pt-BR/
 
 O Thunderbird é um cliente de e-mail grátis, de código aberto e multiplataforma, que 
 permite que você acompanhe toda a sua correspondência de e-mail.
-
 
 # ---------------------------------------------------------------------------------------
 
@@ -157,7 +161,10 @@ O ideal é utilizar a versão Portable (portátil) para alguns programas de manu
 
 
 
-Extras:
+
+
+
+Extras (não obrigatório):
 
 # ---------------------------------------------------------------------------------------
 
@@ -166,6 +173,10 @@ Skype => https://www.skype.com/pt-br/get-skype/
 # ---------------------------------------------------------------------------------------
 
 VirtualBox => https://www.virtualbox.org/wiki/Downloads
+
+# ---------------------------------------------------------------------------------------
+
+Gimp (Editor de imagens) => https://www.gimp.org/downloads/
 
 # ---------------------------------------------------------------------------------------
 
@@ -181,6 +192,10 @@ editá-los, tudo no mesmo software.
 ou
 
 CloneBD   => https://www.elby.ch/download.html
+
+# ---------------------------------------------------------------------------------------
+
+qBittorrent => https://www.qbittorrent.org/download
 
 # ---------------------------------------------------------------------------------------
 
@@ -213,6 +228,14 @@ Advanced IP Scanner (procura por dispositivos conectados à mesma rede local) =>
 # ---------------------------------------------------------------------------------------
 
 Memtest86+ (para teste de memória RAM) => https://memtest.org/
+
+# ---------------------------------------------------------------------------------------
+
+Ventoy => https://www.ventoy.net/en/download.html
+
+Ventoy é um utilitário gratuito e de código aberto usado para gravar arquivos de imagem como 
+.iso, .wim, .img, .vhd e .efi em mídia de armazenamento para criar unidades flash USB 
+inicializáveis.
 
 # ---------------------------------------------------------------------------------------
 

@@ -16,5 +16,8 @@ echo.
 net start spooler
 
 echo Limpeza da fila de impressao concluida.
-Pause
+
+rem Pause
+
+exit
 

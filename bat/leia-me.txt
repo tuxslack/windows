@@ -58,5 +58,39 @@ https://learn.microsoft.com/pt-br/troubleshoot/windows-client/deployment/disable
 ----------------------------------------------------------------------------------------------------------------
 
 
+Programar o Windows para desligar sozinho diariamente
+=====================================================
+
+
+
+Criando uma rotina com o Agendador de Tarefas
+
+Para quem deseja que o Windows mantenha uma rotina de desligamento periódica, é possível fazê-lo criando uma 
+rotina, através da ferramenta Agendador de Tarefas:
+
+    Abra o Agendador de Tarefas
+    
+    Pressione "Win+R" para abrir o Executar, digite taskschd.msc e clique em "OK" para abrir o Agendador de Tarefas. 
+   
+   
+    
+Caso deseje cancelar o desligamento, digite shutdown -a no Prompt de Comando e tecle Enter; o Windows exibirá 
+uma nova mensagem, avisando sobre o cancelamento.
+
+    
+Arquivo:    desligar.bat
+
+sha256sum:  dd5a015818c2be5b396f104f4f5d4c5a485450435ef11106effd1a0b51cbc39e
+
+
+
+Fonte:
+
+https://tecnoblog.net/responde/como-programar-o-pc-para-desligar-sozinho/
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
 
 
