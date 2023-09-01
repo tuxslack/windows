@@ -1,0 +1,39 @@
+
+* Remove o acesso rápido
+
+* Remove ou desabilitar programas inuteis da inicialização do Windows. Ex: OneDrive, Microsoft Teams
+
+
+services.msc
+
+* Desativar o "Windows Update"  - wuauserv
+
+
+
+gpedit.msc
+
+* Configurar Atualizações Automáticas - Desabilitado
+
+* Limitar largura de banda reservável - Habilitado
+
+
+https://tecnoblog.net/responde/desativar-atualizacao-do-windows-10/
+https://tudoemtecnologia.com/aumente-em-20-o-desempenho-da-internet/
+
+
+
+
+* Desativar a hibernação do Windows 10
+
+
+Pesquise o cmd. Na lista de resultados da pesquisa, clique com o botão direito do mouse em Prompt de Comando e em Executar como Administrador.
+
+powercfg.exe /hibernate off
+
+
+https://learn.microsoft.com/pt-br/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation
+
+
+
+
+

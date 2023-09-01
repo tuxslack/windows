@@ -1,5 +1,15 @@
 @echo off
 
+
+rem No Linux verifica se o programa "gnome-disks" esta usando a opção "auto" em "Tipo de sistema de arquivo" 
+rem troca para ntfs3 nas partições NTFS (Solução do problema em montar a partição NTFS pelo Thunar).
+
+
+rem https://support.system76.com/articles/extra-drive/
+rem https://antoniomedeiros.dev/blog/2015/09/16/como-desativar-a-inicializacao-rapida-do-windows/
+
+
+
 cls
 
 echo

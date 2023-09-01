@@ -223,6 +223,12 @@ HD Tune (teste de saúde do HD ou SSD) => https://www.hdtune.com/download.html
 
 # ---------------------------------------------------------------------------------------
 
+
+CrystalDiskInfo (teste de saúde do HD ou SSD) => https://crystalmark.info/en/software/crystaldiskinfo/
+
+
+# ---------------------------------------------------------------------------------------
+
 Advanced IP Scanner (procura por dispositivos conectados à mesma rede local) => https://www.advanced-ip-scanner.com/br/
 
 # ---------------------------------------------------------------------------------------
