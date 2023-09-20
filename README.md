@@ -1,2 +1,2 @@
 # windows
-Manutenção para Windows -   limpeza e otimização
+Procedimentos para manutenção do Windows (limpeza, otimização e etc...)
